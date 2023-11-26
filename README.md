@@ -1,4 +1,4 @@
-[Home]{README.md} | [Cast]{cast.md} | [Collectibles]{Collectibles.md}
+[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="StarGazars Logo" style="width:300px;">
 
